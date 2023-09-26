@@ -16,18 +16,18 @@
     position: fixed;
     width: 100%;
     top: 0;
-    display: flex;
-    justify-content: space-around;
+    display: inline-block;
+    justify-content: space-between;
     align-items: center;
-    background: pink;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    background: #3C514B;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
     height: 50px;
 
 }
 
 .links{
     display: flex;
-    width: 500px;
+    width: 600px;
     justify-content: space-between;
     align-items: center;
 
